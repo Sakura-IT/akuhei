@@ -1,0 +1,11 @@
+Cmp-Mod V01 Genere par PcbNew le 2015 August 15, Saturday 19:42:02
+
+BeginCmp
+TimeStamp = 55CF79E3
+Path = 
+Reference = REF**;
+ValeurCmp = VQFP-240;
+IdModule  = SMD_Packages:VQFP-240;
+EndCmp
+
+EndListe
