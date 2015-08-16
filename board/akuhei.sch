@@ -1,5 +1,4 @@
 EESchema Schematic File Version 2
-LIBS:akuhei-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -56,7 +55,7 @@ U 1 1 55CF5772
 P 2300 2300
 F 0 "J1" H 2300 2400 60  0000 C CNN
 F 1 "CLOCKPORT" H 2300 2150 60  0000 C CNN
-F 2 "con-molex:87758-2216" H 2300 2000 60  0000 C CNN
+F 2 "con-molex:87758-2216" H 2300 2000 60  0001 C CNN
 F 3 "" H 2300 2000 60  0000 C CNN
 	1    2300 2300
 	1    0    0    -1  
